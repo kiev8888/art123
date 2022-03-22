@@ -1,2 +1,2 @@
-ipconfig /all
+appwiz.cpl
 pause
